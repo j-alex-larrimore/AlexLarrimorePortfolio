@@ -1,2 +1,0 @@
-# AlexLarrimorePortfolio
-Created with CodeSandbox
